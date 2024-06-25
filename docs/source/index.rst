@@ -11,7 +11,9 @@ Welcome to MDAKit's documentation!
    :caption: Contents:
 
    getting_started
+   about
    api
+   
 
 
 
